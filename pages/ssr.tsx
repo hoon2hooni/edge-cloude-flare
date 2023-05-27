@@ -1,7 +1,7 @@
 import styles from "../styles/Home.module.css";
 
 export const config = {
-  runtime: "edge",
+  runtime: "experimental-edge",
 };
 
 export const getServerSideProps = async () => {
